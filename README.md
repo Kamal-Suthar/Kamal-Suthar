@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamal-Suthar
+- 👋 Hi, I’m @Kamal-Suthar.
 - 👀 I’m interested in Web Designing. 
 - 🌱 I’m currently learning Web Development.
 
